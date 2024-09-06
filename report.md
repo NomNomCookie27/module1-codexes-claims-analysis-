@@ -1,7 +1,7 @@
 # Analysis of Medical Codes within Synthetic Medicare Fee-for-Service Claims Data
 
 ## Steps Taken During My Analysis
-git
+
 ### 1. Loading the Data:
 - I started by loading the ‘inpatient’ Medicare fee-for-service claims dataset into a Pandas . To ensure everything was in order, I checked the first few rows to confirm the data loaded correctly.
 
